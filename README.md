@@ -1,9 +1,13 @@
-# PowerBI-Sales-Analysis
 # Power BI Sales Analysis Dashboard
 
 This repository contains a Power BI dashboard created as part of an assignment to analyze sales data.
 
-## Dataset Overview
+## Dataset Source  
+The dataset used in this project was sourced from a YouTube tutorial:  
+[🔗 YouTube Video](https://youtu.be/6cV3OwFrOkk?si=tzwK2IuMOGGsgYlq).  
+The original data was provided for educational purposes, and I have used it to create a Power BI dashboard.
+
+## Dataset Overview  
 The data consists of sales transactions, including customer details, order details, and financial metrics.
 
 - **details.csv**:
